@@ -1,2 +1,2 @@
 # Clicker
- Napravljeno tijekom edukacije
+ Napravljeno tijekom edukacije u Inkubatoru Pismo
